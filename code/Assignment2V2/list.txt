@@ -1,0 +1,10 @@
+1001,Apple,1.00
+1002,Banana,1.25
+1003,Peach,0.50
+1004,Grapes,5.00
+1005,Pineapple,8.00
+1006,Bread,2.50
+1007,Milk,4.00
+1008,Cheese,3.50
+1009,Tomato,1.00
+1010,Onion,1.50
